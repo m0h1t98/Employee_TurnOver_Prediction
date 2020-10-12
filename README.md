@@ -7,7 +7,7 @@ A Company uses this predictive analysis to measure how many employees they will 
 
 Here 'left' is the target (dependent) variable <br>
 
-#Steps
+# Steps
 
 1. Import Library and Dataset
 2. Data Preprocessing
